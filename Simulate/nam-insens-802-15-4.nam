@@ -1,0 +1,753 @@
+n -t 0 -s 0 -S DLABEL -l "Sink" -L ""
+n -t * -s 100  -x 55 -y 55 -Z 0 -z 20  -v circle -c green
+n -t * -s 101  -x 22 -y 22 -Z 0 -z 20  -v circle -c green
+n -t * -s 0  -x 60 -y 60 -Z 0 -z 3  -v circle -c green
+n -t * -s 1  -x 14.20097 -y 88.118979999999993 -Z 0 -z 3  -v circle -c green
+n -t * -s 2  -x 41.168640000000003 -y 99.152289999999994 -Z 0 -z 3  -v circle -c green
+n -t * -s 3  -x 12.95966 -y 16.47289 -Z 0 -z 3  -v circle -c green
+n -t * -s 4  -x 34.600169999999999 -y 38.86251 -Z 0 -z 3  -v circle -c green
+n -t * -s 5  -x 9.0790579999999999 -y 36.323540000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 6  -x 64.141720000000007 -y 42.79034 -Z 0 -z 3  -v circle -c green
+n -t * -s 7  -x 40.066079999999999 -y 13.8035 -Z 0 -z 3  -v circle -c green
+n -t * -s 8  -x 59.724530000000001 -y 23.656210000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 9  -x 74.805250000000001 -y 94.138850000000005 -Z 0 -z 3  -v circle -c green
+n -t * -s 10  -x 7.0274989999999997 -y 48.73892 -Z 0 -z 3  -v circle -c green
+n -t * -s 11  -x 58.086889999999997 -y 8.6851489999999991 -Z 0 -z 3  -v circle -c green
+n -t * -s 12  -x 18.645630000000001 -y 66.115409999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 13  -x 92.306830000000005 -y 62.066229999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 14  -x 39.823619999999998 -y 17.154710000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 15  -x 41.222459999999998 -y 51.104439999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 16  -x 77.346829999999997 -y 62.229779999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 17  -x 4.9417790000000004 -y 5.5148590000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 18  -x 9.1974180000000008 -y 4.207001 -Z 0 -z 3  -v circle -c green
+n -t * -s 19  -x 87.361549999999994 -y 87.443020000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 20  -x 46.260739999999998 -y 91.346770000000006 -Z 0 -z 3  -v circle -c green
+n -t * -s 21  -x 12.029730000000001 -y 58.399990000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 22  -x 10.8057 -y 95.022639999999996 -Z 0 -z 3  -v circle -c green
+n -t * -s 23  -x 35.660119999999999 -y 23.099810000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 24  -x 68.622309999999999 -y 56.990049999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 25  -x 98.670060000000007 -y 44.819330000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 26  -x 76.65146 -y 61.819400000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 27  -x 54.837560000000003 -y 25.685700000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 28  -x 27.55536 -y 27.31278 -Z 0 -z 3  -v circle -c green
+n -t * -s 29  -x 86.211089999999999 -y 84.984470000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 30  -x 46.815130000000003 -y 72.692570000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 31  -x 6.7313919999999996 -y 94.934100000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 32  -x 78.725740000000002 -y 76.005120000000005 -Z 0 -z 3  -v circle -c green
+n -t * -s 33  -x 91.353229999999996 -y 91.718010000000007 -Z 0 -z 3  -v circle -c green
+n -t * -s 34  -x 50.129710000000003 -y 65.103899999999996 -Z 0 -z 3  -v circle -c green
+n -t * -s 35  -x 32.897500000000001 -y 35.090600000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 36  -x 21.216889999999999 -y 88.197509999999994 -Z 0 -z 3  -v circle -c green
+n -t * -s 37  -x 14.396990000000001 -y 2.8460619999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 38  -x 28.03755 -y 74.642089999999996 -Z 0 -z 3  -v circle -c green
+n -t * -s 39  -x 86.109319999999997 -y 35.83578 -Z 0 -z 3  -v circle -c green
+n -t * -s 40  -x 2.011863 -y 56.05594 -Z 0 -z 3  -v circle -c green
+n -t * -s 41  -x 58.405949999999997 -y 15.57812 -Z 0 -z 3  -v circle -c green
+n -t * -s 42  -x 83.771360000000001 -y 63.522750000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 43  -x 49.987900000000003 -y 6.3748820000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 44  -x 46.12144 -y 73.603319999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 45  -x 0.17295730000000001 -y 83.427250000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 46  -x 32.211790000000001 -y 95.686120000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 47  -x 11.93604 -y 32.789720000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 48  -x 65.244690000000006 -y 4.9852819999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 49  -x 3.3460510000000001 -y 21.730599999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 50  -x 81.254310000000004 -y 79.995630000000006 -Z 0 -z 3  -v circle -c green
+n -t * -s 51  -x 5.8318370000000002 -y 71.214269999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 52  -x 31.93826 -y 55.234940000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 53  -x 15.354520000000001 -y 89.625730000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 54  -x 20.744240000000001 -y 51.258290000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 55  -x 7.6109099999999996 -y 15.996119999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 56  -x 39.909660000000002 -y 37.218490000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 57  -x 31.208850000000002 -y 19.17238 -Z 0 -z 3  -v circle -c green
+n -t * -s 58  -x 99.412000000000006 -y 14.150969999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 59  -x 30.40484 -y 22.928699999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 60  -x 7.4748669999999997 -y 35.651940000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 61  -x 84.771990000000002 -y 96.80086 -Z 0 -z 3  -v circle -c green
+n -t * -s 62  -x 22.88936 -y 50.781219999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 63  -x 58.511609999999997 -y 35.538040000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 64  -x 64.488500000000002 -y 76.680080000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 65  -x 71.342699999999994 -y 39.499319999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 66  -x 78.499650000000003 -y 6.2034260000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 67  -x 26.828060000000001 -y 30.239719999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 68  -x 58.697920000000003 -y 39.959240000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 69  -x 94.03586 -y 37.075209999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 70  -x 33.405549999999998 -y 28.975819999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 71  -x 41.839930000000003 -y 39.914639999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 72  -x 59.972160000000002 -y 1.433927 -Z 0 -z 3  -v circle -c green
+n -t * -s 73  -x 57.719529999999999 -y 5.7039600000000004 -Z 0 -z 3  -v circle -c green
+n -t * -s 74  -x 51.792839999999998 -y 45.019849999999998 -Z 0 -z 3  -v circle -c green
+n -t * -s 75  -x 40.228020000000001 -y 35.348909999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 76  -x 66.480310000000003 -y 71.829049999999995 -Z 0 -z 3  -v circle -c green
+n -t * -s 77  -x 18.026689999999999 -y 80.975359999999995 -Z 0 -z 3  -v circle -c green
+n -t * -s 78  -x 29.783709999999999 -y 62.859830000000002 -Z 0 -z 3  -v circle -c green
+n -t * -s 79  -x 79.512479999999996 -y 49.690040000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 80  -x 5.8824860000000001 -y 75.377549999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 81  -x 57.255429999999997 -y 61.854340000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 82  -x 64.745230000000006 -y 78.634150000000005 -Z 0 -z 3  -v circle -c green
+n -t * -s 83  -x 11.724489999999999 -y 55.44115 -Z 0 -z 3  -v circle -c green
+n -t * -s 84  -x 54.554949999999998 -y 80.428510000000003 -Z 0 -z 3  -v circle -c green
+n -t * -s 85  -x 66.445790000000002 -y 92.900009999999995 -Z 0 -z 3  -v circle -c green
+n -t * -s 86  -x 41.571420000000003 -y 77.396789999999996 -Z 0 -z 3  -v circle -c green
+n -t * -s 87  -x 19.41581 -y 53.916080000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 88  -x 59.133090000000003 -y 14.333159999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 89  -x 55.343989999999998 -y 53.847349999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 90  -x 22.207239999999999 -y 8.3515429999999995 -Z 0 -z 3  -v circle -c green
+n -t * -s 91  -x 30.360790000000001 -y 30.04224 -Z 0 -z 3  -v circle -c green
+n -t * -s 92  -x 92.81644 -y 43.468629999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 93  -x 29.836780000000001 -y 80.230649999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 94  -x 17.027799999999999 -y 26.877050000000001 -Z 0 -z 3  -v circle -c green
+n -t * -s 95  -x 5.8927560000000003 -y 57.371139999999997 -Z 0 -z 3  -v circle -c green
+n -t * -s 96  -x 3.5244879999999998 -y 93.626410000000007 -Z 0 -z 3  -v circle -c green
+n -t * -s 97  -x 76.067430000000002 -y 11.389379999999999 -Z 0 -z 3  -v circle -c green
+n -t * -s 98  -x 38.292029999999997 -y 77.245679999999993 -Z 0 -z 3  -v circle -c green
+n -t * -s 99  -x 59.136049999999997 -y 69.752340000000004 -Z 0 -z 3  -v circle -c green
+V -t * -v 1.0a5 -a 0
+W -t * -x 120 -y 120
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
+n -t 0 -s 100 -S DLABEL -l "wh1" -L ""
+n -t 0 -s 101 -S DLABEL -l "wh2" -L ""
++ -t 0.100000000 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.100000000 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.100000000 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866011 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866024 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866026 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866030 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866033 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866037 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866045 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866056 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866057 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866058 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866058 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866059 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866061 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866064 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.106866065 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.214800708 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.214800708 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.214800708 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666719 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666732 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666735 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666735 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666736 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666750 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666754 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666759 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666762 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666763 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666767 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666770 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666771 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666773 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.221666773 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.246681604 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.246681604 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.246681604 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907607 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907629 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907635 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907646 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907652 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907652 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907656 -s 13 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907660 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907667 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907668 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907668 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.252907669 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.357200603 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.357200603 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.357200603 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826637 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826638 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826639 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826639 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826641 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826647 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826648 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826652 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826656 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826658 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826660 -s 85 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.361826665 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.470624698 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.470624698 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.470624698 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250702 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250724 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250726 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250730 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250739 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250744 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250745 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250746 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250746 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250753 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250760 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.475250763 -s 71 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.483275891 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.483275891 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.483275891 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861897 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861914 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861925 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861926 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861938 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861939 -s 85 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861946 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861952 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861953 -s 9 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861954 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861955 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861955 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.488861957 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.517183330 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.517183330 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.517183330 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049341 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049350 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049353 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049370 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049374 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049376 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049379 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049380 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049392 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.524049394 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.560105300 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.560105300 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.560105300 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.562139465 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.562139465 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.562139465 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651326 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651328 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651332 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651334 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651337 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651338 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651342 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651350 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651353 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651356 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651357 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651359 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651362 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.566651367 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973469 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973484 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973494 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973496 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973501 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973510 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973519 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973523 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973524 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973525 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973527 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973529 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973530 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.572973530 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.598196558 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.598196558 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.598196558 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462562 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462582 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462586 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462590 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462595 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462600 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462608 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462619 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462619 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462620 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462620 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462621 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462621 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462623 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462624 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.603462624 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.639496437 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.639496437 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.639496437 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042443 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042454 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042466 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042472 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042484 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042491 -s 85 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042492 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042494 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042494 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042497 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042498 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042499 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042501 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.646042501 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.676006101 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.676006101 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.676006101 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272132 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272132 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272135 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272142 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272145 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272147 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272147 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272151 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272151 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272154 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272156 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272160 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.681272167 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.684426528 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.684426528 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.684426528 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012545 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012551 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012553 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012571 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012573 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012573 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012576 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012576 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012577 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012578 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012584 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012587 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012592 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.690012594 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.711971406 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.711971406 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.711971406 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837409 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837428 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837440 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837448 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837452 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837454 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837456 -s 13 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837464 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837467 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837470 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.718837472 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.767215706 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.767215706 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.767215706 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121717 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121735 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121736 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121738 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121741 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121760 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121761 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121762 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121762 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.773121771 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.797649116 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.797649116 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.797649116 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515138 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515140 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515145 -s 13 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515161 -s 32 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515164 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515171 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515172 -s 50 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.804515180 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.846386063 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.846386063 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.846386063 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.849376052 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.849376052 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.849376052 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012089 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012105 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012106 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012107 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012113 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012122 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.851012128 -s 8 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730072 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730078 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730082 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730093 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730099 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730101 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730102 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730108 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730111 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730117 -s 27 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.855730117 -s 8 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.896773275 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.896773275 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.896773275 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.896823275 -s 101 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999279 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999299 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999299 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999310 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999312 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999321 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999323 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999326 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999326 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999327 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999340 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.902999341 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.949086575 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.949086575 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.949086575 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.950483135 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.950483135 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.950483135 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672589 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672605 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672610 -s 27 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672613 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672614 -s 8 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672619 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672632 -s 71 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672636 -s 75 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672637 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672637 -s 56 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672641 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.954672641 -s 41 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805150 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805156 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805164 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805177 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805183 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805184 -s 27 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805187 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805190 -s 8 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805191 -s 71 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805198 -s 56 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805199 -s 75 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.960805201 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.969183593 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.969183593 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.969183593 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089627 -s 52 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089630 -s 71 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089634 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089639 -s 4 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089640 -s 56 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089641 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089641 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089646 -s 75 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089648 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089648 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089653 -s 35 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089654 -s 62 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.975089657 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.978218529 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.978218529 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.978218529 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444560 -s 2 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444574 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444578 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444578 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444583 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444588 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444591 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.984444595 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 0.984543208 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 0.984543208 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 0.984543208 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129250 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129251 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129252 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129252 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129257 -s 42 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129257 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129260 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129265 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129268 -s 13 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129273 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 0.990129274 -s 25 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.105194190 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.105194190 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.105194190 -s 99 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060216 -s 76 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060217 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060219 -s 64 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060223 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060224 -s 34 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060225 -s 82 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060229 -s 84 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060232 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060235 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060241 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060243 -s 24 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060245 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060254 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060254 -s 26 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.112060256 -s 16 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.167629252 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.167629252 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.167629252 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175271 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175282 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175291 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175291 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175292 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175304 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175309 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175310 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175310 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175310 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175312 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175314 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.174175318 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.194122623 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.194122623 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.194122623 -s 74 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388652 -s 68 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388655 -s 89 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388658 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388660 -s 71 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388662 -s 63 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388664 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388665 -s 6 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388670 -s 56 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388673 -s 75 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388680 -s 0 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388682 -s 81 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388684 -s 4 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.199388688 -s 27 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.308913862 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.308913862 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.308913862 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499882 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499885 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499888 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499901 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499903 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499906 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499912 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499915 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499923 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.314499928 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.325157022 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.325157022 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.325157022 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023048 -s 52 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023060 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023061 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023067 -s 87 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023068 -s 62 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023071 -s 54 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023076 -s 15 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023077 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023080 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023083 -s 21 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023084 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023087 -s 83 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023087 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.332023087 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.339776211 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.339776211 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.339776211 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042238 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042238 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042242 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042251 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042251 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042256 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042261 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042264 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042264 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042271 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042272 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.345042276 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.355761189 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.355761189 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.355761189 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307195 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307212 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307215 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307216 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307223 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307229 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307238 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307240 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307247 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307252 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307253 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.362307254 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.465346498 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.465346498 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.465346498 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932518 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932534 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932538 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932538 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932541 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932545 -s 86 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932549 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932559 -s 44 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932561 -s 30 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932563 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932564 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.470932564 -s 52 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.507784346 -s 101 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.507784346 -s 101 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.507784346 -s 101 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.507834346 -s 100 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650370 -s 94 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650372 -s 28 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650375 -s 59 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650378 -s 67 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650379 -s 57 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650382 -s 3 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650385 -s 91 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650391 -s 70 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650392 -s 90 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650392 -s 23 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650396 -s 47 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650398 -s 55 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650403 -s 35 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650408 -s 14 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650409 -s 49 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650411 -s 5 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650413 -s 7 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.514650413 -s 60 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.574066597 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.574066597 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.574066597 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612610 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612641 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612643 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612643 -s 95 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612644 -s 21 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612649 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612649 -s 40 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612653 -s 83 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.580612659 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.677898000 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.677898000 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.677898000 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.683484020 -s 25 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.683484021 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.683484033 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.683484048 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.683484062 -s 13 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.742301387 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.742301387 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.742301387 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.747887408 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.747887413 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.747887417 -s 25 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.747887451 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.766296933 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.766296933 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.766296933 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.766691879 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.766691879 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.766691879 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562965 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562968 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562977 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562977 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562982 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562985 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562987 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.771562993 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733885 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733899 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733902 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733909 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733913 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733920 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733933 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733936 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733936 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733939 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.783733944 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.813280512 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.813280512 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.813280512 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146525 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146535 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146536 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146537 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146553 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146564 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.820146564 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.853760828 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.853760828 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.853760828 -s 39 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.859346855 -s 69 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.859346862 -s 92 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.859346879 -s 65 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.859346879 -s 79 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.859346880 -s 25 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 1.860445205 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 1.860445205 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 1.860445205 -s 46 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031237 -s 2 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031249 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031254 -s 20 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031257 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031265 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031270 -s 98 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 1.866031270 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 2.015041780 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 2.015041780 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 2.015041780 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667792 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667794 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667814 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667814 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667824 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667833 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667840 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.019667845 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 2.098287560 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 2.098287560 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 2.098287560 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873572 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873585 -s 22 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873596 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873600 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873602 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873622 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873622 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.103873625 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 2.110024833 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 2.110024833 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 2.110024833 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290866 -s 21 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290871 -s 78 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290873 -s 87 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290875 -s 38 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290875 -s 83 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290879 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290882 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290883 -s 54 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290884 -s 95 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290885 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290886 -s 62 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290890 -s 52 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290893 -s 93 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.115290897 -s 40 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
++ -t 2.266344738 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR 
+- -t 2.266344738 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+h -t 2.266344738 -s 80 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570752 -s 51 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570771 -s 45 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570783 -s 77 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570789 -s 1 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570791 -s 12 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570795 -s 53 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570798 -s 95 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570798 -s 21 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570799 -s 96 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570803 -s 31 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570804 -s 40 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+r -t 2.272570805 -s 36 -d -1 -p INSENS -e 100 -c 2 -a 0 -i 0 -k RTR
+W -t 4
